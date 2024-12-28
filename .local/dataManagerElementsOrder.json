@@ -1,0 +1,35 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "MainWorkflow.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bookID&Sequence_1",
+        "userData&Sequence_1",
+        "headerTable&Sequence_1",
+        "senderPassword&Sequence_1",
+        "senderEmail&Sequence_1",
+        "rentalID&Sequence_1",
+        "photoPath&Sequence_1",
+        "bookName&Sequence_1",
+        "dueDate&Sequence_1",
+        "rentalDate&Sequence_1",
+        "email&Sequence_1",
+        "rollNumber&Sequence_1",
+        "studentName&Sequence_1",
+        "formData&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
